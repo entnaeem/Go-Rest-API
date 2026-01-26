@@ -1,2 +1,2 @@
- -- +migrate Down
- DROP TABLE IF EXISTS users;
+-- +migrate Down
+DROP TABLE IF EXISTS users;

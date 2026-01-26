@@ -1,2 +1,2 @@
- -- +migrate Down
- DROP TABLE IF EXISTS products
+-- +migrate Down
+DROP TABLE IF EXISTS products;
